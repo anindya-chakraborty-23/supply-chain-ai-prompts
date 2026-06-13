@@ -26,7 +26,7 @@ This repo is built around a core prompting framework first. The industry prompt 
 ## Structure
 
 ```
-supply-chain-ai-prompts/
+supply-chain-llm-guide/
 │
 ├── prompting-guide.md            # Start here — the core framework
 │
@@ -49,7 +49,7 @@ supply-chain-ai-prompts/
 
 1. **Read the prompting guide first** — [`prompting-guide.md`](./prompting-guide.md) gives you the framework. Even if you only want the prompts, skimming the guide will make you significantly better at adapting them.
 2. **Browse the industry folders** — each prompt is a worked example of the framework applied to a specific operational problem.
-3. **Copy, adapt, use** — prompts include placeholders in `[brackets]`. Swap in your own context and run them in [Claude](https://claude.ai) or your preferred LLM.
+3. **Copy, adapt, use** — prompts include placeholders in `[brackets]`. Swap in your own context and run them in your preferred LLM.
 
 ---
 
@@ -84,7 +84,7 @@ The **Why this works** section is what separates this from a plain prompt dump �
 
 | File | Status |
 |------|--------|
-| `prompting-guide.md` | 🔜 Coming soon |
+| `prompting-guide.md` | ✅ Done |
 | `cpg-retail/prompts.md` | 🔜 Coming soon |
 | `manufacturing/prompts.md` | 🔜 Coming soon |
 | `energy-utilities/prompts.md` | 🔜 Coming soon |
@@ -94,6 +94,6 @@ The **Why this works** section is what separates this from a plain prompt dump �
 
 ## About
 
-Built by [Anindya](https://www.linkedin.com/in/anindya-chakraborty-iimb/) — senior supply chain and AI professional, Claude Certified Architect. Connect on LinkedIn for posts on enterprise AI, supply chain, and practical LLM applications.
+Built by [Anindya](https://www.linkedin.com/in/anindya-chakraborty-iimb/) — senior supply chain and AI professional, Claude Certified Architect. This repo is itself a product of applied LLM usage — researched, written, and iterated using Claude, Gemini, and GPT-4.
 
 *Content added regularly. Star the repo to follow along.*
