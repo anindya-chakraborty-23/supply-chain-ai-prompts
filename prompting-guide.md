@@ -1,8 +1,6 @@
-# Prompting Guide for Supply Chain Professionals
+# Prompting Guide for Industry Professionals
 
-### *"Summarise the supplier report."* vs a 60-word prompt that produces a board-ready analysis in one shot. The gap between those two is what this guide covers.
-
-A practical framework for getting useful outputs from LLMs — written for planners, analysts, and operations professionals.  
+A practical framework for getting useful outputs from LLMs — written for planners, analysts, and industry professionals.  
 By the end you will have a reusable prompt structure and five patterns you can apply to your next supply chain problem today.  
 *(15 minute read)*
 
